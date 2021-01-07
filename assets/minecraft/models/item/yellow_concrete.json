@@ -1,0 +1,101 @@
+{
+    "parent": "block/yellow_concrete",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "102 _pac_man:pacman/pacman_normal_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "102 _pac_man:pacman/pacman_normal_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "102 _pac_man:pacman/pacman_normal_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "102 _pac_man:pacman/pacman_big_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "102 _pac_man:pacman/pacman_big_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "102 _pac_man:pacman/pacman_big_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "102 _pac_man:pacman/pacman_death_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "102 _pac_man:pacman/pacman_death_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1009
+            },
+            "model": "102 _pac_man:pacman/pacman_death_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "102 _pac_man:pacman/pacman_death_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1011
+            },
+            "model": "102 _pac_man:pacman/pacman_death_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1012
+            },
+            "model": "102 _pac_man:pacman/pacman_death_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1013
+            },
+            "model": "102 _pac_man:pacman/pacman_death_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1014
+            },
+            "model": "102 _pac_man:pacman/pacman_death_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1015
+            },
+            "model": "102 _pac_man:pacman/pacman_death_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1016
+            },
+            "model": "102 _pac_man:pacman/pacman_death_10"
+        }
+    ]
+}

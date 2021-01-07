@@ -1,0 +1,16 @@
+{
+    "parent": "block/red_concrete",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "102 _pac_man:ghost/blinky_normal_1"
+        },{
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "102 _pac_man:ghost/blinky_normal_2"
+        }
+    ]
+}

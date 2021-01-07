@@ -1,0 +1,16 @@
+{
+    "parent": "block/white_concrete",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "102 _pac_man:objects/dot"
+        },{
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "102 _pac_man:objects/power_pellet"
+        }
+    ]
+}
