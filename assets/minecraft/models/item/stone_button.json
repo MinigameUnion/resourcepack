@@ -1,5 +1,5 @@
 {
-    "parent": "block/stone_button_inventory",
+    "parent": "minecraft:block/stone_button_inventory",
     "overrides": [
         {
             "predicate": {
