@@ -162,6 +162,622 @@
                 "charged": 1
             },
             "model": "gun_501:gun/s1897/1/ads/default"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4001
+            },
+            "model": "item/taratara_401/crossbow/1/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4002
+            },
+            "model": "item/taratara_401/crossbow/2/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4003
+            },
+            "model": "item/taratara_401/crossbow/3/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4004
+            },
+            "model": "item/taratara_401/crossbow/4/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4005
+            },
+            "model": "item/taratara_401/crossbow/5/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4006
+            },
+            "model": "item/taratara_401/crossbow/6/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4007
+            },
+            "model": "item/taratara_401/crossbow/7/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4008
+            },
+            "model": "item/taratara_401/crossbow/8/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4009
+            },
+            "model": "item/taratara_401/crossbow/9/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4010
+            },
+            "model": "item/taratara_401/crossbow/10/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4011
+            },
+            "model": "item/taratara_401/crossbow/11/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4012
+            },
+            "model": "item/taratara_401/crossbow/12/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4013
+            },
+            "model": "item/taratara_401/crossbow/13/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58,
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0,
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1,
+                "custom_model_data": 4014
+            },
+            "model": "item/taratara_401/crossbow/14/crossbow_firework"
         }
     ]
 }

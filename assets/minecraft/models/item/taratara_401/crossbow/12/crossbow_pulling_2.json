@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "item/taratara_401/crossbow/12/crossbow_pulling_2"
+    }
+}
