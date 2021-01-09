@@ -5,49 +5,49 @@
             "predicate": {
                 "custom_model_data": 1001
             },
-            "model": "102 _pac_man:objects/fruit_cherry"
+            "model": "102_pac_man:objects/fruit_cherry"
         },
         {
             "predicate": {
                 "custom_model_data": 1002
             },
-            "model": "102 _pac_man:objects/fruit_berry"
+            "model": "102_pac_man:objects/fruit_berry"
         },
         {
             "predicate": {
                 "custom_model_data": 1003
             },
-            "model": "102 _pac_man:objects/fruit_apple"
+            "model": "102_pac_man:objects/fruit_apple"
         },
         {
             "predicate": {
                 "custom_model_data": 1004
             },
-            "model": "102 _pac_man:objects/fruit_orange"
+            "model": "102_pac_man:objects/fruit_orange"
         },
         {
             "predicate": {
                 "custom_model_data": 1005
             },
-            "model": "102 _pac_man:objects/fruit_melon"
+            "model": "102_pac_man:objects/fruit_melon"
         },
         {
             "predicate": {
                 "custom_model_data": 1006
             },
-            "model": "102 _pac_man:objects/fruit_bell"
+            "model": "102_pac_man:objects/fruit_bell"
         },
         {
             "predicate": {
                 "custom_model_data": 1007
             },
-            "model": "102 _pac_man:objects/fruit_boss"
+            "model": "102_pac_man:objects/fruit_boss"
         },
         {
             "predicate": {
                 "custom_model_data": 1008
             },
-            "model": "102 _pac_man:objects/fruit_key"
+            "model": "102_pac_man:objects/fruit_key"
         }
     ]
 }

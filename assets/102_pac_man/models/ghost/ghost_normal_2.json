@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "102 _pac_man:plane",
-		"particle": "102 _pac_man:white"
+		"0": "102_pac_man:plane",
+		"particle": "102_pac_man:white"
 	},
 	"elements": [
 		{

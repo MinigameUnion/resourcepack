@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "102 _pac_man:ghost_eye",
-		"1": "102 _pac_man:white",
-		"particle": "102 _pac_man:ghost_eye"
+		"0": "102_pac_man:ghost_eye",
+		"1": "102_pac_man:white",
+		"particle": "102_pac_man:ghost_eye"
 	},
 	"elements": [
 		{
