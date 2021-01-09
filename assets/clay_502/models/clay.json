@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cut_red_sandstone",
-		"particle": "block/cut_red_sandstone"
+		"0": "minecraft:block/cut_red_sandstone",
+		"particle": "minecraft:block/cut_red_sandstone"
 	},
 	"elements": [
 		{

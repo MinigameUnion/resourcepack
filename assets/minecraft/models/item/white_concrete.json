@@ -1,5 +1,5 @@
 {
-    "parent": "block/white_concrete",
+    "parent": "minecraft:block/white_concrete",
     "overrides": [
         {
             "predicate": {
