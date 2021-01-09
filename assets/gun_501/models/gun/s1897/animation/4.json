@@ -1,0 +1,10 @@
+{
+	"parent": "gun_501:gun/s1897/base",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0.2, 0.64, 0],
+			"translation": [-5.923, 11.3, -1.985],
+			"scale": [4, 4, 4]
+		}
+	}
+}

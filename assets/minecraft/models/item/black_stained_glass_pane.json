@@ -1,0 +1,80 @@
+{
+    "parent": "item/generated",
+    "teztures": {
+        "layer0": "block/black_stained_glass"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "gun_501:hit_mark/x/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "gun_501:hit_mark/x/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "gun_501:hit_mark/x/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "gun_501:hit_mark/x/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5010
+            },
+            "model": "gun_501:hit_mark/y/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5011
+            },
+            "model": "gun_501:hit_mark/y/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5012
+            },
+            "model": "gun_501:hit_mark/y/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5013
+            },
+            "model": "gun_501:hit_mark/y/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5020
+            },
+            "model": "gun_501:hit_mark/z/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5021
+            },
+            "model": "gun_501:hit_mark/z/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5022
+            },
+            "model": "gun_501:hit_mark/z/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5023
+            },
+            "model": "gun_501:hit_mark/z/3"
+        }
+    ]
+}

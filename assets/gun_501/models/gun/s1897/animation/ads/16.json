@@ -1,0 +1,10 @@
+{
+	"parent": "gun_501:gun/s1897/animation/cocking/0",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0.5, 0.1, -10],
+			"translation": [-8.395, 15.76, -3.275],
+			"scale": [4, 4, 4]
+		}
+	}
+}

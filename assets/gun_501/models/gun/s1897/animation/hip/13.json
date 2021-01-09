@@ -1,0 +1,10 @@
+{
+	"parent": "gun_501:gun/s1897/triggered",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [2, 1, 0],
+			"translation": [-3.875, 8.1, -0.9],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/clay_ball"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "clay_502:clay"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "gun_501:target_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "gun_501:fallen_target_plate"
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_hoe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "gun_501:gun/s1897/animation/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5004
+            },
+            "model": "gun_501:gun/s1897/animation/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5005
+            },
+            "model": "gun_501:gun/s1897/animation/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5006
+            },
+            "model": "gun_501:gun/s1897/animation/6"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 5011
+            },
+            "model": "gun_501:gun/s1897/animation/hip/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5012
+            },
+            "model": "gun_501:gun/s1897/animation/hip/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5013
+            },
+            "model": "gun_501:gun/s1897/animation/hip/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5014
+            },
+            "model": "gun_501:gun/s1897/animation/hip/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5015
+            },
+            "model": "gun_501:gun/s1897/0/triggered"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5016
+            },
+            "model": "gun_501:gun/s1897/0/triggered"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5017
+            },
+            "model": "gun_501:gun/s1897/animation/hip/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5018
+            },
+            "model": "gun_501:gun/s1897/animation/hip/17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5019
+            },
+            "model": "gun_501:gun/s1897/animation/hip/18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5020
+            },
+            "model": "gun_501:gun/s1897/animation/hip/19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5021
+            },
+            "model": "gun_501:gun/s1897/animation/hip/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5022
+            },
+            "model": "gun_501:gun/s1897/animation/hip/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5023
+            },
+            "model": "gun_501:gun/s1897/animation/hip/21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5024
+            },
+            "model": "gun_501:gun/s1897/animation/hip/22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5025
+            },
+            "model": "gun_501:gun/s1897/animation/hip/23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5026
+            },
+            "model": "gun_501:gun/s1897/0/default"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 5030
+            },
+            "model": "gun_501:gun/s1897/animation/reload/30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5031
+            },
+            "model": "gun_501:gun/s1897/animation/reload/31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5032
+            },
+            "model": "gun_501:gun/s1897/animation/reload/32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5033
+            },
+            "model": "gun_501:gun/s1897/animation/reload/33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5034
+            },
+            "model": "gun_501:gun/s1897/animation/reload/34"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5035
+            },
+            "model": "gun_501:gun/s1897/animation/reload/35"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5036
+            },
+            "model": "gun_501:gun/s1897/animation/reload/36"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5037
+            },
+            "model": "gun_501:gun/s1897/animation/reload/37"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5040
+            },
+            "model": "gun_501:gun/s1897/animation/pick/40"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5041
+            },
+            "model": "gun_501:gun/s1897/animation/pick/41"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5042
+            },
+            "model": "gun_501:gun/s1897/animation/pick/42"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5043
+            },
+            "model": "gun_501:gun/s1897/animation/pick/43"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5044
+            },
+            "model": "gun_501:gun/s1897/animation/pick/44"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5045
+            },
+            "model": "gun_501:gun/s1897/animation/pick/45"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5046
+            },
+            "model": "gun_501:gun/s1897/animation/pick/46"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5047
+            },
+            "model": "gun_501:gun/s1897/animation/pick/47"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 5061
+            },
+            "model": "gun_501:gun/s1897/animation/ads/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5062
+            },
+            "model": "gun_501:gun/s1897/animation/ads/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5063
+            },
+            "model": "gun_501:gun/s1897/animation/ads/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5064
+            },
+            "model": "gun_501:gun/s1897/animation/ads/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5065
+            },
+            "model": "gun_501:gun/s1897/0/ads/triggered"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5066
+            },
+            "model": "gun_501:gun/s1897/animation/ads/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5067
+            },
+            "model": "gun_501:gun/s1897/animation/ads/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5068
+            },
+            "model": "gun_501:gun/s1897/animation/ads/17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5069
+            },
+            "model": "gun_501:gun/s1897/animation/ads/18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5070
+            },
+            "model": "gun_501:gun/s1897/animation/ads/19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5071
+            },
+            "model": "gun_501:gun/s1897/animation/ads/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5072
+            },
+            "model": "gun_501:gun/s1897/animation/ads/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5073
+            },
+            "model": "gun_501:gun/s1897/animation/ads/21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5074
+            },
+            "model": "gun_501:gun/s1897/animation/ads/22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5075
+            },
+            "model": "gun_501:gun/s1897/animation/ads/23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5076
+            },
+            "model": "gun_501:gun/s1897/0/ads/default"
+        }
+    ]
+}
