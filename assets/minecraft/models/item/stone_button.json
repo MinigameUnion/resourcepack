@@ -5,22 +5,22 @@
             "predicate": {
                 "custom_model_data": 1001
             },
-            "model": "102 _pac_man:ghost/ghost_eye_1"
+            "model": "102_pac_man:ghost/ghost_eye_1"
         },{
             "predicate": {
                 "custom_model_data": 1002
             },
-            "model": "102 _pac_man:ghost/ghost_eye_2"
+            "model": "102_pac_man:ghost/ghost_eye_2"
         },{
             "predicate": {
                 "custom_model_data": 1003
             },
-            "model": "102 _pac_man:ghost/ghost_eye_3"
+            "model": "102_pac_man:ghost/ghost_eye_3"
         },{
             "predicate": {
                 "custom_model_data": 1004
             },
-            "model": "102 _pac_man:ghost/ghost_eye_4"
+            "model": "102_pac_man:ghost/ghost_eye_4"
         }
     ]
 }

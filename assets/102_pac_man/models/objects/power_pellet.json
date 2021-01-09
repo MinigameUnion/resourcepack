@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "102 _pac_man:power_pellet"
+		"1": "102_pac_man:power_pellet"
 	},
 	"elements": [
 		{
