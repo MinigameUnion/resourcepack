@@ -1,0 +1,23 @@
+{
+    "602_tada1":{
+        "sounds": [
+            {
+                "name": "mob/cow/say3"
+            }
+        ]
+    },
+    "602_tada2":{
+        "sounds": [
+            {
+                "name": "mob/sheep/say3"
+            }
+        ]
+    },
+    "602_tada3":{
+        "sounds": [
+            {
+                "name": "mob/chicken/hurt1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "parent":"item/handheld",
+    "textures": {
+		"layer0": "item/slime_ball"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":6001},"model":"ats_602:item/602/001"},
+        {"predicate":{"custom_model_data":6002},"model":"ats_602:item/602/002"},
+        {"predicate":{"custom_model_data":6003},"model":"ats_602:item/602/003"},
+        {"predicate":{"custom_model_data":6004},"model":"ats_602:item/602/004"},
+        {"predicate":{"custom_model_data":6005},"model":"ats_602:item/602/005"},
+        {"predicate":{"custom_model_data":6006},"model":"ats_602:item/602/006"},
+        {"predicate":{"custom_model_data":6007},"model":"ats_602:item/602/007"},
+        {"predicate":{"custom_model_data":6008},"model":"ats_602:item/602/008"},
+        {"predicate":{"custom_model_data":6009},"model":"ats_602:item/602/009"},
+        {"predicate":{"custom_model_data":6010},"model":"ats_602:item/602/010"},
+        {"predicate":{"custom_model_data":6011},"model":"ats_602:item/602/011"},
+        {"predicate":{"custom_model_data":6012},"model":"ats_602:item/602/012"},
+        {"predicate":{"custom_model_data":6013},"model":"ats_602:item/602/013"},
+        {"predicate":{"custom_model_data":6014},"model":"ats_602:item/602/014"},
+        {"predicate":{"custom_model_data":6015},"model":"ats_602:item/602/015"},
+        {"predicate":{"custom_model_data":6016},"model":"ats_602:item/602/016"},
+        {"predicate":{"custom_model_data":6017},"model":"ats_602:item/602/017"},
+        {"predicate":{"custom_model_data":6018},"model":"ats_602:item/602/018"},
+        {"predicate":{"custom_model_data":6019},"model":"ats_602:item/602/019"},
+        {"predicate":{"custom_model_data":6020},"model":"ats_602:item/602/020"},
+        {"predicate":{"custom_model_data":6021},"model":"ats_602:item/602/021"},
+        {"predicate":{"custom_model_data":6022},"model":"ats_602:item/602/022"},
+        {"predicate":{"custom_model_data":6023},"model":"ats_602:item/602/023"},
+        {"predicate":{"custom_model_data":6024},"model":"ats_602:item/602/024"},
+        {"predicate":{"custom_model_data":6025},"model":"ats_602:item/602/025"},
+        {"predicate":{"custom_model_data":6026},"model":"ats_602:item/602/026"},
+        {"predicate":{"custom_model_data":6027},"model":"ats_602:item/602/027"},
+        {"predicate":{"custom_model_data":6028},"model":"ats_602:item/602/028"},
+        {"predicate":{"custom_model_data":6029},"model":"ats_602:item/602/029"},
+        {"predicate":{"custom_model_data":6030},"model":"ats_602:item/602/030"},
+        {"predicate":{"custom_model_data":6031},"model":"ats_602:item/602/031"}
+    ]
+}
