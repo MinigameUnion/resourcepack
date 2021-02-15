@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"parent": "gun_501:gun/display",
 	"textures": {
-		"1": "minecraft:block/blast_furnace_top",
-		"2": "minecraft:block/spruce_planks",
-		"3": "minecraft:block/black_concrete",
-		"4": "minecraft:particle/flame",
-		"particle": "minecraft:particle/flame"
+		"1": "block/blast_furnace_top",
+		"2": "block/spruce_planks",
+		"3": "block/black_concrete",
+		"4": "particle/flame",
+		"particle": "particle/flame"
 	},
 	"elements": [
 		{
@@ -2527,11 +2527,8 @@
 			"to": [8.5, 9, 0.875],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.5, 0.875], "rescale": true},
 			"faces": {
-				"east": {"uv": [0, 0, 0, 0.5], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"west": {"uv": [0, 0, 0, 0.5], "texture": "#missing"},
-				"up": {"uv": [0, 0, 0.5, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0.5, 0], "texture": "#missing"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"}
 			}
 		}
 	],

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "gun_501:gun/display",
 	"textures": {
-		"1": "minecraft:block/blast_furnace_top",
-		"2": "minecraft:block/spruce_planks",
-		"3": "minecraft:block/black_concrete"
+		"1": "block/blast_furnace_top",
+		"2": "block/spruce_planks",
+		"3": "block/black_concrete"
 	},
 	"elements": [
 		{
@@ -1858,8 +1858,7 @@
 				"north": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"},
 				"east": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"},
 				"south": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"},
-				"west": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [9, 4, 10, 5], "texture": "#missing"}
+				"west": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"}
 			}
 		},
 		{
@@ -1879,11 +1878,9 @@
 			"to": [8.0125, 8.18406, 9.54892],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8.225, 9.4625]},
 			"faces": {
-				"north": {"uv": [9, 4, 10, 5], "rotation": 180, "texture": "#missing"},
 				"east": {"uv": [0, 11, 1, 12], "rotation": 180, "texture": "#1"},
 				"south": {"uv": [9, 4, 10, 5], "texture": "#1"},
 				"west": {"uv": [0, 11, 1, 12], "texture": "#1"},
-				"up": {"uv": [0, 11, 1, 12], "rotation": 90, "texture": "#missing"},
 				"down": {"uv": [0, 11, 1, 12], "rotation": 270, "texture": "#1"}
 			}
 		},
@@ -1913,11 +1910,9 @@
 			"to": [8.0125, 8.23358, 9.44656],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.25, 9.4375]},
 			"faces": {
-				"north": {"uv": [0, 11, 1, 12], "rotation": 90, "texture": "#missing"},
 				"east": {"uv": [0, 11, 1, 12], "rotation": 90, "texture": "#1"},
 				"south": {"uv": [0, 11, 1, 12], "rotation": 90, "texture": "#1"},
 				"west": {"uv": [0, 11, 1, 12], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [9, 4, 10, 5], "texture": "#missing"},
 				"down": {"uv": [9, 4, 10, 5], "texture": "#1"}
 			}
 		},

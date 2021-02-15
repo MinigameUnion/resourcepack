@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "gun_501:gun/display",
 	"textures": {
-		"1": "minecraft:block/blast_furnace_top",
-		"2": "minecraft:block/spruce_planks",
-		"3": "minecraft:block/black_concrete"
+		"1": "block/blast_furnace_top",
+		"2": "block/spruce_planks",
+		"3": "block/black_concrete"
 	},
 	"elements": [
 		{

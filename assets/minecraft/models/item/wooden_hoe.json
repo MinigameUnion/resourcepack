@@ -130,12 +130,6 @@
 
         {
             "predicate": {
-                "custom_model_data": 5030
-            },
-            "model": "gun_501:gun/s1897/animation/reload/30"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 5031
             },
             "model": "gun_501:gun/s1897/animation/reload/31"

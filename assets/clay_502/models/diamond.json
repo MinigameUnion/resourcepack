@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/diamond"
+    },
+	"display": {
+		"ground": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "teztures": {
-        "layer0": "minecraft:block/black_stained_glass"
+        "layer0": "block/black_stained_glass"
     },
     "overrides": [
         {
