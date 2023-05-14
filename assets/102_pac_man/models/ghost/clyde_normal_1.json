@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "102_pac_man:clyde",
-		"particle": "102_pac_man:clyde"
+		"2": "102_pac_man:item/clyde",
+		"particle": "102_pac_man:item/clyde"
 	},
 	"elements": [
 		{

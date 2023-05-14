@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "102_pac_man:izike_1",
-		"2": "102_pac_man:izike_face_1",
-		"particle": "102_pac_man:izike_face_1"
+		"1": "102_pac_man:item/izike_1",
+		"2": "102_pac_man:item/izike_face_1",
+		"particle": "102_pac_man:item/izike_face_1"
 	},
 	"elements": [
 		{

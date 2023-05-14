@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "102_pac_man:blinky",
-		"2": "102_pac_man:clyde",
-		"3": "102_pac_man:inky",
-		"4": "102_pac_man:pacman",
-		"5": "102_pac_man:pinky",
-		"6": "102_pac_man:white",
-		"14": "102_pac_man:ghost_eye",
-		"particle": "102_pac_man:black"
+		"1": "102_pac_man:item/blinky",
+		"2": "102_pac_man:item/clyde",
+		"3": "102_pac_man:item/inky",
+		"4": "102_pac_man:item/pacman",
+		"5": "102_pac_man:item/pinky",
+		"6": "102_pac_man:item/white",
+		"14": "102_pac_man:item/ghost_eye",
+		"particle": "102_pac_man:item/black"
 	},
 	"elements": [
 		{
