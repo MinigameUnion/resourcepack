@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "102_pac_man:item/black",
-		"1": "102_pac_man:item/fruit_berry",
-		"particle": "102_pac_man:item/black"
+		"0": "102_pac_man:black",
+		"1": "102_pac_man:fruit_berry",
+		"particle": "102_pac_man:black"
 	},
 	"elements": [
 		{

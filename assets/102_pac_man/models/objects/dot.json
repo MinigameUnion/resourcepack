@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "102_pac_man:item/dot",
-		"particle": "102_pac_man:item/dot"
+		"0": "102_pac_man:dot",
+		"particle": "102_pac_man:dot"
 	},
 	"elements": [
 		{
