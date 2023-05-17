@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/101.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/102.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/401.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/502.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/602.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/801.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0006"
+            ]
+        }
+    ]
+}
