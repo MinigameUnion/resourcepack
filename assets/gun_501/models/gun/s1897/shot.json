@@ -5,8 +5,8 @@
 		"1": "block/blast_furnace_top",
 		"2": "block/spruce_planks",
 		"3": "block/black_concrete",
-		"4": "particle/flame",
-		"particle": "particle/flame"
+		"4": "gun_501:item/gun/flame",
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{
