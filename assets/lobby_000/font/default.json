@@ -53,6 +53,15 @@
             "chars": [
                 "\u0006"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/201.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0007"
+            ]
         }
     ]
 }
