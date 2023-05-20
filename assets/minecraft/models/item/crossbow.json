@@ -723,61 +723,14 @@
             },
             "model": "taratara_401:item/crossbow/14/crossbow_firework"
         },
-        {
-            "predicate": {
-                "custom_model_data": 5000,
-                "charged": 0
-            },
-            "model": "gun_501:gun/s1897/0/triggered"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5000,
-                "charged": 1
-            },
-            "model": "gun_501:gun/s1897/1/triggered"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5001,
-                "charged": 0
-            },
-            "model": "gun_501:gun/s1897/0/shot"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5001,
-                "charged": 1
-            },
-            "model": "gun_501:gun/s1897/1/default"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5050,
-                "charged": 0
-            },
-            "model": "gun_501:gun/s1897/0/ads/triggered"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5050,
-                "charged": 1
-            },
-            "model": "gun_501:gun/s1897/1/ads/triggered"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5051,
-                "charged": 0
-            },
-            "model": "gun_501:gun/s1897/0/ads/shot"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5051,
-                "charged": 1
-            },
-            "model": "gun_501:gun/s1897/1/ads/default"
-        }
+
+        {"predicate": { "custom_model_data": 5000, "charged": 0 }, "model": "gun_501:gun/s1897/0/triggered" },
+        {"predicate": { "custom_model_data": 5000, "charged": 1 }, "model": "gun_501:gun/s1897/1/triggered" },
+        {"predicate": { "custom_model_data": 5001, "charged": 0 }, "model": "gun_501:gun/s1897/0/shot" },
+        {"predicate": { "custom_model_data": 5001, "charged": 1 }, "model": "gun_501:gun/s1897/1/default" },
+        {"predicate": { "custom_model_data": 5050, "charged": 0 }, "model": "gun_501:gun/s1897/0/ads/triggered" },
+        {"predicate": { "custom_model_data": 5050, "charged": 1 }, "model": "gun_501:gun/s1897/1/ads/triggered" },
+        {"predicate": { "custom_model_data": 5051, "charged": 0 }, "model": "gun_501:gun/s1897/0/ads/shot" },
+        {"predicate": { "custom_model_data": 5051, "charged": 1 }, "model": "gun_501:gun/s1897/1/ads/default" }
     ]
 }
