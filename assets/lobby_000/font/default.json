@@ -11,6 +11,15 @@
         },
         {
             "type": "bitmap",
+            "file": "lobby_000:font/display/101.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1101"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "lobby_000:font/logo/102.png",
             "ascent": 128,
             "height": 255,
