@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "reversi_201:item/face.white",
+		"particle": "reversi_201:item/face.white"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 1, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 10]},
+			"faces": {
+				"north": {"uv": [8, 15, 16, 16], "texture": "#0"},
+				"east": {"uv": [8, 15, 16, 16], "texture": "#0"},
+				"south": {"uv": [8, 15, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 15, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [0.5, 0.5, 0.5],
+			"translation": [0, 6.0, 0]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, 6, 0]
+		}
+	}
+}
