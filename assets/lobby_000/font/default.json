@@ -101,6 +101,15 @@
         },
         {
             "type": "bitmap",
+            "file": "lobby_000:font/display/602.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1602"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "lobby_000:font/logo/801.png",
             "ascent": 128,
             "height": 255,
