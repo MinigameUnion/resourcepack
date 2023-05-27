@@ -98,6 +98,15 @@
             "chars": [
                 "\u0801"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/801.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1801"
+            ]
         }
     ]
 }
