@@ -47,6 +47,15 @@
         },
         {
             "type": "bitmap",
+            "file": "lobby_000:font/display/201.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1201"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "lobby_000:font/logo/401.png",
             "ascent": 128,
             "height": 255,
