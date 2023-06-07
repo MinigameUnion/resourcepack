@@ -11,6 +11,22 @@
                 "custom_model_data": 1002
             },
             "model": "102_pac_man:objects/power_pellet"
-        }
+        },
+        {"predicate": {"custom_model_data": 2000},"model": "reversi_201:item/00.white.piece"},
+        {"predicate": {"custom_model_data": 2001},"model": "reversi_201:item/01.white.classic"},
+        {"predicate": {"custom_model_data": 2002},"model": "reversi_201:item/02.white.cursed"},
+        {"predicate": {"custom_model_data": 2003},"model": "reversi_201:item/rutl/03.white.ancient"},
+        {"predicate": {"custom_model_data": 2004},"model": "reversi_201:item/rutl/04.white.illusion"},
+        {"predicate": {"custom_model_data": 2005},"model": "reversi_201:item/rutl/05.white.face_1"},
+        {"predicate": {"custom_model_data": 2006},"model": "reversi_201:item/rutl/06.white.face_2"},
+        {"predicate": {"custom_model_data": 2007},"model": "reversi_201:item/rutl/07.white.face_ex"},
+        {"predicate": {"custom_model_data": 2008},"model": "reversi_201:item/rutl/08.white.sprite_flat"},
+        {"predicate": {"custom_model_data": 2009},"model": "reversi_201:item/rutl/09.white.sprite_ex"},
+        {"predicate": {"custom_model_data": 2030},"model": "reversi_201:item/30.white.pawn"},
+        {"predicate": {"custom_model_data": 2060},"model": "reversi_201:item/60.white.shulker"},
+        {"predicate": {"custom_model_data": 2061},"model": "reversi_201:item/61.white.chest"},
+        {"predicate": {"custom_model_data": 2062},"model": "reversi_201:item/62.white.sapling"},
+        {"predicate": {"custom_model_data": 2063},"model": "reversi_201:item/63.white.spider"},
+        {"predicate": {"custom_model_data": 2064},"model": "reversi_201:item/64.white.puzzle"}
     ]
 }

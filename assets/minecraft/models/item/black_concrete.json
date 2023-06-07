@@ -1,0 +1,21 @@
+{
+    "parent": "block/black_concrete",
+    "overrides": [
+        {"predicate": {"custom_model_data": 2000},"model": "reversi_201:item/00.black.piece"},
+        {"predicate": {"custom_model_data": 2001},"model": "reversi_201:item/01.black.classic"},
+        {"predicate": {"custom_model_data": 2002},"model": "reversi_201:item/02.black.cursed"},
+        {"predicate": {"custom_model_data": 2003},"model": "reversi_201:item/rutl/03.black.ancient"},
+        {"predicate": {"custom_model_data": 2004},"model": "reversi_201:item/rutl/04.black.illusion"},
+        {"predicate": {"custom_model_data": 2005},"model": "reversi_201:item/rutl/05.black.face_1"},
+        {"predicate": {"custom_model_data": 2006},"model": "reversi_201:item/rutl/06.black.face_2"},
+        {"predicate": {"custom_model_data": 2007},"model": "reversi_201:item/rutl/07.black.face_ex"},
+        {"predicate": {"custom_model_data": 2008},"model": "reversi_201:item/rutl/08.black.sprite_flat"},
+        {"predicate": {"custom_model_data": 2009},"model": "reversi_201:item/rutl/09.black.sprite_ex"},
+        {"predicate": {"custom_model_data": 2030},"model": "reversi_201:item/30.black.pawn"},
+        {"predicate": {"custom_model_data": 2060},"model": "reversi_201:item/60.black.shulker"},
+        {"predicate": {"custom_model_data": 2061},"model": "reversi_201:item/61.black.chest"},
+        {"predicate": {"custom_model_data": 2062},"model": "reversi_201:item/62.black.sapling"},
+        {"predicate": {"custom_model_data": 2063},"model": "reversi_201:item/63.black.spider"},
+        {"predicate": {"custom_model_data": 2064},"model": "reversi_201:item/64.black.puzzle"}
+    ]
+}

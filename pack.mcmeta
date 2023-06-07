@@ -1,6 +1,12 @@
 {
-  "pack": {
-    "pack_format": 5,
-    "description": "sakusaku"
-  }
+    "pack":{
+        "pack_format": 13,
+        "description":[
+            {
+                "text": "「この世の何よりもゲームが好き！」"
+            },
+            "\n",
+            "リソースパック"
+        ]
+    }
 }
