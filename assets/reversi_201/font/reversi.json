@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/reversi/icon.png",
+            "file": "reversi_201:font/icon.png",
             "ascent": 8,
             "height": 9,
             "chars": [
