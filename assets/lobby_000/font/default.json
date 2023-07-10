@@ -1,0 +1,130 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/101.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/101.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/102.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/102.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/201.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0201"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/201.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1201"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/401.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0401"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/401.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1401"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/502.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0502"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/502.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1502"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/602.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0602"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/602.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1602"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/logo/801.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u0801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lobby_000:font/display/801.png",
+            "ascent": 128,
+            "height": 255,
+            "chars": [
+                "\u1801"
+            ]
+        }
+    ]
+}
