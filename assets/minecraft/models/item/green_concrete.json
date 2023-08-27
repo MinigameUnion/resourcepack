@@ -1,6 +1,12 @@
 {
     "parent": "block/green_concrete",
     "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "lobby_000:menu_board"
+        },
         {"predicate": {"custom_model_data": 2000},"model": "reversi_201:item/board"}
     ]
 }

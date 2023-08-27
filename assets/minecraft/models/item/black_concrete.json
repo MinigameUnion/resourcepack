@@ -1,6 +1,30 @@
 {
     "parent": "block/black_concrete",
     "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "lobby_000:cage_s1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "lobby_000:cage_l1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "lobby_000:cage_s2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "lobby_000:cage_l2"
+        },
         {"predicate": {"custom_model_data": 2000},"model": "reversi_201:item/00.black.piece"},
         {"predicate": {"custom_model_data": 2001},"model": "reversi_201:item/01.black.classic"},
         {"predicate": {"custom_model_data": 2002},"model": "reversi_201:item/02.black.cursed"},
